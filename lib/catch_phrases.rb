@@ -13,5 +13,6 @@ def link
   puts advice 
 end
 
-define all_phrases 
+def all_phrases 
+  total = "puts out all of the previous catch phrases"
   
