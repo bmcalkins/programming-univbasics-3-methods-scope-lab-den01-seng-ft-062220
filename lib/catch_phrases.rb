@@ -14,5 +14,5 @@ def link
 end
 
 def all_phrases(mario, toadstool, link)
-  total = "puts out all of the previous catch phrases"
   puts all_phrases
+end
