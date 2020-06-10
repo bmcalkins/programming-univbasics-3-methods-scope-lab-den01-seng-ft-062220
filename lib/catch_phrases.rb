@@ -13,6 +13,6 @@ def link
   puts advice 
 end
 
-def all_phrases 
+def all_phrases(mario, toadstool, link)
   total = "puts out all of the previous catch phrases"
-  
+  puts all_phrases
