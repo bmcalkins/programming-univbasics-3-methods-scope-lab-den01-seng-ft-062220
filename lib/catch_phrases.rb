@@ -12,3 +12,6 @@ def link
   advice = "It's Dangerous To Go Alone! Take This."
   puts advice 
 end
+
+define all_phrases 
+  
